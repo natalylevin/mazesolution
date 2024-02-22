@@ -17,15 +17,6 @@ This project implements a graphical user interface (GUI) to visualize and solve 
 * Java AWT
 * Random
 
-**Running the Project:**
-
-1. Compile the Java source files.
-2. Execute the `Main` class.
-
-**Note:**
-
-* Currently, only DFS algorithm is implemented. BFS functionality is not included.
-
 **Further Enhancements:**
 
 * Implement BFS algorithm.
